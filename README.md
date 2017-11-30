@@ -1,0 +1,2 @@
+# CompetitionWebsite
+For the competition
